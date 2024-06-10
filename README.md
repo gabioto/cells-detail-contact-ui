@@ -1,4 +1,4 @@
-# @@capa-cell/cells-detail-contact-ui
+# @capa-cell/cells-detail-contact-ui
 
 ## Package info
 
@@ -7,7 +7,7 @@
 Installation using NPM
 
 ```bash
-npm install @@capa-cell/cells-detail-contact-ui
+npm install @capa-cell/cells-detail-contact-ui
 ```
 
 ## CellsDetailContactUi (Class) cells-detail-contact-ui (Custom Element)
